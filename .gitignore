@@ -1,0 +1,7 @@
+.DS_Store
+includes/libft/*.o
+includes/libft/libft.a
+objects
+fractol
+includes/mlx/*.o
+includes/mlx/libmlx.a
